@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataextractionTask", "Toverto\DataextractionTask.csproj", "{6F81D01C-A9B9-4828-854E-15E327A30EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataextraction", "Dataextraction\Dataextraction.csproj", "{2ED713CB-EDDB-4EC0-9C74-3FA790ED7020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F81D01C-A9B9-4828-854E-15E327A30EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F81D01C-A9B9-4828-854E-15E327A30EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F81D01C-A9B9-4828-854E-15E327A30EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F81D01C-A9B9-4828-854E-15E327A30EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED713CB-EDDB-4EC0-9C74-3FA790ED7020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED713CB-EDDB-4EC0-9C74-3FA790ED7020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED713CB-EDDB-4EC0-9C74-3FA790ED7020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED713CB-EDDB-4EC0-9C74-3FA790ED7020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBDF282-9518-44BB-82E0-1DD41BA0800B}
+	EndGlobalSection
+EndGlobal
